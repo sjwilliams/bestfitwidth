@@ -11,11 +11,10 @@ npm install bestfitwidth
 ```
 
 ## Useage
-var bestFitWidth = require('bestfitwidth');
 
 ```javascript
+var bestFitWidth = require('bestfitwidth');
 console.log(bestFitWidth(500, [320, 600, 900, 1200])))
-
 // 600
 
 ```
