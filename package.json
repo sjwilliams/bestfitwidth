@@ -2,7 +2,7 @@
   "name": "bestfitwidth",
   "version": "0.1.0",
   "description": "Find the best sized image, opting for larger over smaller.",
-  "main": "index.js",
+  "main": "bestfitwidth.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/sjwilliams/bestfitwidth.git"
