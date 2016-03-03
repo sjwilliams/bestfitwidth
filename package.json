@@ -1,6 +1,6 @@
 {
   "name": "bestfitwidth",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Find the best sized image, opting for larger over smaller.",
   "main": "bestfitwidth.js",
   "repository": {
