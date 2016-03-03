@@ -1,4 +1,10 @@
 /* globals define */
+
+/**
+ * @preserve bestfitwidth
+ * https://github.com/sjwilliams/bestfitwidth
+ * Copyright (c) 2016 Josh Williams; Licensed MIT
+ */
 (function(root, factory) {
   if (typeof define === 'function' && define.amd) {
     define([], factory);
